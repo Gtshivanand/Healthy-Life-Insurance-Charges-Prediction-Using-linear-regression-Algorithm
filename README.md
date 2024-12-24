@@ -60,6 +60,9 @@ Predict how much could be the insurance charges for a beneficiary based on the d
 
 *Scikit-learn (for machine learning implementation)
 
+# 
+<img width="606" alt="Gender Distribution" src="https://github.com/user-attachments/assets/f3d23bf7-66d2-4517-b1da-ea9c3e8b7483" />
+
 # Conclusion
 The project successfully demonstrates the application of the Linear Regression algorithm to predict insurance charges based on health and demographic factors. Through data preprocessing, exploratory analysis, and model evaluation, the results highlight the significant variables influencing charges. This predictive model can assist insurance companies in making informed decisions, optimizing pricing strategies, and improving customer satisfaction.
 
